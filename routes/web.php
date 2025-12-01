@@ -11,3 +11,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('/perfil', function () {
     return view('Perfil-profesional.perfil-profesional');
 })->name('perfil');
+
+Route::get('/habilidades', function () {
+    return view('habilidades.habilidades');
+})->name('habilidades');
