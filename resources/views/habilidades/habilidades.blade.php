@@ -7,7 +7,7 @@
 @stop
 
 @section('content')
-<!-- Habilidades en Tarjetas -->
+
 <div class="card shadow mt-3">
     <div class="card-body">
         <div class="row text-center">
@@ -20,7 +20,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-primary h-100">
                     <div class="card-body">
@@ -30,7 +29,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-warning h-100">
                     <div class="card-body">
@@ -40,7 +38,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-info h-100">
                     <div class="card-body">
@@ -50,7 +47,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-danger h-100">
                     <div class="card-body">
@@ -60,17 +56,15 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-primary h-100">
                     <div class="card-body">
                         <img src="{{ asset('img/skills/css3.png') }}" class="img-fluid mb-2" style="height: 60px;">
-                        <h6 class="mt-2">CSS3</h6>
+                        <h6 class="mt-2">CSS</h6>
                         <p class="small text-muted">Diseño visual y estilos</p>
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-purple h-100">
                     <div class="card-body">
@@ -80,7 +74,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-6 col-md-4 col-lg-3 mb-4">
                 <div class="card card-outline card-dark h-100">
                     <div class="card-body">
