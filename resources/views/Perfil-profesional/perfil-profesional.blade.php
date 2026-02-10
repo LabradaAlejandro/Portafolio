@@ -13,7 +13,7 @@
         <div class="card card-primary card-outline shadow">
             <div class="card-body box-profile text-center">
                 <img class="profile-user-img "
-                     src="{{ asset('img/avatar.png') }}"
+                     src="{{ asset('img/avatar.jpeg') }}"
                      alt="Foto de perfil">
                 <h3 class="profile-username mt-2">Alejandro Labrada Muñoz</h3>
                 <p class="text-muted">Analista y Desarrollador Web</p>
@@ -22,7 +22,7 @@
                         <b>Experiencia:</b> <span class="float-right">2025 - Actual</span>
                     </li>
                     <li class="list-group-item">
-                        <b>Proyectos:</b> <span class="float-right">3</span>
+                        <b>Proyectos:</b> <span class="float-right">1</span>
                     </li>
                     <li class="list-group-item">
                         <b>Ubicación:</b> <span class="float-right">Cali-Colombia</span>
